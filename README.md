@@ -1,5 +1,6 @@
 ### Hi, I'm Muhammad Sharjeel Akhtar - aka [SandsOfTimes[SANDY]](https://sandsoftimes.github.io/) 👋
-## I'm a Learner/Student learning Deep-Learning these days.
+
+## I'm a Learner/Student.
 <!--
 **sandsoftimes/sandsoftimes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
