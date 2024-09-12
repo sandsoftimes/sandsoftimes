@@ -5,7 +5,11 @@
   
 ### Connect with me:
 
-[![Instagram](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg)](https://instagram.com/me_a_on)
+[<img align="left" alt="sandsoftimes.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="sandsoftimes | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="sandsoftimes | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="sandsoftimes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sandsoftimes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <!--
@@ -50,3 +54,9 @@ I keep my things written so do pay a visit to my site attached below. Also i tal
 [![](https://visitcount.itsvg.in/api?id=sandsoftimes&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[website]: https:/sandsoftimes.github.io
+[twitter]: https://twitter.com/sandsoftimes
+[youtube]: [https://www.youtube.com/channel/UChmByX2cvbt5RIQVgV3fTaw](https://www.youtube.com/@Black-tq8op)
+[instagram]: https://instagram.com/me_a_on
+[linkedin]: https://www.linkedin.com/in/muhammad-sharjeel-akhtar-sandsoftime-sandy-52b1bb317/
