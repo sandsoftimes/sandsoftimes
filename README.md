@@ -1,5 +1,5 @@
 ## Hi, I'm Muhammad Sharjeel Akhtar - aka [SandsOfTimes[SANDY]](https://sandsoftimes.github.io/) 👋
-
+🔭 I’m currently a student
 <!--
 **sandsoftimes/sandsoftimes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
