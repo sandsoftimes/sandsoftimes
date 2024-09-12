@@ -70,24 +70,6 @@ Here are some ideas to get you started:
 -->
 
 
-
-
-
-
-# 💫 About Me:
-I keep my things written so do pay a visit to my site attached below. Also i talk'bout GAMES. Feel free to contact me.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/me_a_on) 
-
-# 💻 Tech Stack:
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sandsoftimes&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sandsoftimes&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandsoftimes&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sandsoftimes&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
