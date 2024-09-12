@@ -4,7 +4,7 @@
 - 🔭 I’m learning Deep-Learning these days!
   
 ### Connect with me:
-
+[<img align="left" alt="sandsoftimes.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][sandsoftimes.github.io]
 
 
 <br />
