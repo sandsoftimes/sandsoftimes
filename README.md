@@ -1,4 +1,4 @@
-## Hi, I'm Muhammad Sharjeel Akhtar aka - [SandsOfTimes[SANDY]](https://sandsoftimes.github.io/) 👋
+## Hi, I'm Muhammad Sharjeel Akhtar - aka [SandsOfTimes[SANDY]](https://sandsoftimes.github.io/) 👋
 
 <!--
 **sandsoftimes/sandsoftimes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
