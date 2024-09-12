@@ -56,7 +56,7 @@ I keep my things written so do pay a visit to my site attached below. Also i tal
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [website]: https://sandsoftimes.github.io/
-[twitter]: 
+[twitter]: https://sandsoftimes.github.io/
 [youtube]: https://www.youtube.com/@Black-tq8op
 [instagram]: https://instagram.com/me_a_on
 [linkedin]: https://www.linkedin.com/in/muhammad-sharjeel-akhtar-sandsoftime-sandy-52b1bb317/
