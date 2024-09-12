@@ -69,13 +69,13 @@ width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4
 ---
 
 <!-- <img align="left" alt="sandsoftimes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sandsoftimes&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true" /> -->
-<b>Github Streaks 🔥</b>
+<b>SandsOfTimes Streaks</b>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sandsoftimes&theme=shadow_red&hide_border=false" /></p>
 
 ---
 
-<b>zawster's Github Stats</b>
+<b>SandsOfTimes Github Stats</b>
 
 ![](https://github-readme-stats.vercel.app/api?username=sandsoftimes&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandsoftimes&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
