@@ -77,7 +77,7 @@ width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4
 
 <b>zawster's Github Stats</b>
 
-![](https://github-readme-stats.vercel.app/api?username=sandsoftimes&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sandsoftimes&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandsoftimes&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
