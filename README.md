@@ -5,7 +5,7 @@
   
 ### Connect with me:
 [<img align="left" alt="sandsoftimes.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][sandsoftimes.github.io]
-
+[![Instagram](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg)](https://instagram.com/me_a_on)
 
 <br />
 <!--
