@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🏆 GitHub Trophies and Quote
+## 🏆 GitHub Trophies, Viewers and Quote
 
 
 
