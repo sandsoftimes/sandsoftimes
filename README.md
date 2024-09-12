@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-trophy.vercel.app/?username=sandsoftimes&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Here is The Motivation
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
