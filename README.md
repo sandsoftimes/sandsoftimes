@@ -1,3 +1,5 @@
+![Cover Image](https://static.wikia.nocookie.net/rainbowsix/images/6/69/651.jpg/revision/latest?cb=20191115144313)
+
 #### Hi, I'm Muhammad Sharjeel Akhtar - aka [SandsOfTimes[SANDY]](https://sandsoftimes.github.io/)
 
 ## I'm a Learner/Student.
