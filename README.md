@@ -1,4 +1,4 @@
-![header](https://github.com/sandsoftimes/sandsoftimes/blob/82a2c4a0a84c84ef9aafdd1a5e654d8605f10dfd/image.png)
+![header](https://github.com/sandsoftimes/sandsoftimes/blob/main/image.png)
 
 #### Hi, I'm Muhammad Sharjeel Akhtar - aka [SandsOfTimes[SANDY]](https://sandsoftimes.github.io/)
 
