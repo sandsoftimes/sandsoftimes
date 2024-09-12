@@ -15,17 +15,13 @@
 
 ---
 
-### Languages
+### Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
----
-
-### Tools:
 
 <img align="left" alt="Php" width="75" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/php/php.png" />
 <img align="left" alt="Visual Studio Code" width="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -63,6 +59,8 @@ width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4
 <br />
 <br />
 <br />
+
+
 
 
 ---
