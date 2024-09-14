@@ -85,4 +85,4 @@ Here are some ideas to get you started:
 [twitter]: https://sandsoftimes.github.io/
 [youtube]: https://www.youtube.com/@Black-tq8op
 [instagram]: https://instagram.com/me_a_on
-[linkedin]: https://www.linkedin.com/in/muhammad-sharjeel-akhtar-sandsoftime-sandy-52b1bb317/
+[linkedin]: https://www.linkedin.com/in/muhammad-sharjeel-akhtar-sandsoftimes-sandy-52b1bb317/
