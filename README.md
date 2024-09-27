@@ -156,7 +156,7 @@ Here are some ideas to get you started:
 ### COD Showcase
 
 ![header](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRobWw3bXZxdHdheHo0b2h6MXRvMzNqdGtubmNpdGdrejg0YXI4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11upujZDZXwSMU/giphy.webp)
-![header](https://media0.giphy.com/media/S6YSnqS8f7tCK2eq7Z/200w.webp?cid=ecf05e47bjrpv3xkz3im2qtrug6ia1577fqonpa8hr51fk8n&ep=v1_gifs_related&rid=200w.webp&ct=g)
+![header](https://media4.giphy.com/media/qMASrWwusThpnxKmEx/giphy.webp?cid=ecf05e47n63c5k1fztbnf3yx0ofxctzsks1g9irvlioqdfrc&ep=v1_gifs_related&rid=giphy.webp&ct=g)
 
 
 
