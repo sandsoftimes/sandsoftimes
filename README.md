@@ -1,5 +1,5 @@
 ![header](https://github.com/sandsoftimes/sandsoftimes/blob/main/image.png)
-![header](https://media4.giphy.com/media/tL7I3Oq1IZCWM1AG9G/giphy.webp?cid=790b76113ydsnip5u0s9i9kjo8ghb4fgyngoh7qydw9i3fgj&ep=v1_gifs_search&rid=giphy.webp&ct=g)
+
 
 #### Hi, I'm Muhammad Sharjeel Akhtar - aka [SandsOfTimes[SANDY]](https://sandsoftimes.github.io/)
 
@@ -147,6 +147,8 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=sandsoftimes&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
+
+![header](https://media4.giphy.com/media/tL7I3Oq1IZCWM1AG9G/giphy.webp?cid=790b76113ydsnip5u0s9i9kjo8ghb4fgyngoh7qydw9i3fgj&ep=v1_gifs_search&rid=giphy.webp&ct=g)
 
 
 
