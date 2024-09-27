@@ -1,4 +1,4 @@
-![header](https://github.com/sandsoftimes/sandsoftimes/blob/main/image.png)
+![image](https://github.com/user-attachments/assets/eb798324-906b-40ee-b495-857e01649a10)![header](https://github.com/sandsoftimes/sandsoftimes/blob/main/image.png)
 
 
 #### Hi, I'm Muhammad Sharjeel Akhtar - aka [SandsOfTimes[SANDY]](https://sandsoftimes.github.io/)
@@ -148,8 +148,7 @@ Here are some ideas to get you started:
 
 ---
 
-![header](https://media4.giphy.com/media/tL7I3Oq1IZCWM1AG9G/giphy.webp?cid=790b76113ydsnip5u0s9i9kjo8ghb4fgyngoh7qydw9i3fgj&ep=v1_gifs_search&rid=giphy.webp&ct=g) ![header](https://media2.giphy.com/media/7VwaW1epE3FcI/giphy.webp?cid=ecf05e47w5i3iozjys0ucdie9bsd8p4a9da13hjg342yrg1w&ep=v1_gifs_search&rid=giphy.webp&ct=g
-)
+![header](https://media2.giphy.com/media/55kpDFANQHHHXP5qHi/200.webp?cid=ecf05e47w5i3iozjys0ucdie9bsd8p4a9da13hjg342yrg1w&ep=v1_gifs_search&rid=200.webp&ct=g) ![header](https://media3.giphy.com/media/6ErBPDqHIa9V5ySvAd/200.webp?cid=ecf05e47w5i3iozjys0ucdie9bsd8p4a9da13hjg342yrg1w&ep=v1_gifs_search&rid=200.webp&ct=g)
 
 
 [website]: https://sandsoftimes.github.io/
