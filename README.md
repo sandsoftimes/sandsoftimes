@@ -157,7 +157,9 @@ Here are some ideas to get you started:
 
 ![header](https://media4.giphy.com/media/qMASrWwusThpnxKmEx/giphy.webp?cid=ecf05e47n63c5k1fztbnf3yx0ofxctzsks1g9irvlioqdfrc&ep=v1_gifs_related&rid=giphy.webp&ct=g)
 
-### Witcher Showcase
+---
+
+### Witcher 3 Wild Hunt Showcase
 
 ![header](https://media3.giphy.com/media/eKJWHtQLlkD6jxlqq4/200.webp?cid=790b7611qc1xftsvk7lzir9pn5gep7ck9nmx1h0n4uycxo7z&ep=v1_gifs_search&rid=200.webp&ct=g)
 ![header](https://media0.giphy.com/media/VIuE5d0sG2sxMRCO99/200.webp?cid=790b7611qc1xftsvk7lzir9pn5gep7ck9nmx1h0n4uycxo7z&ep=v1_gifs_search&rid=200.webp&ct=g)
