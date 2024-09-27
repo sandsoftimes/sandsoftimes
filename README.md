@@ -1,6 +1,4 @@
 ![image](https://github.com/user-attachments/assets/eb798324-906b-40ee-b495-857e01649a10)![header](https://github.com/sandsoftimes/sandsoftimes/blob/main/image.png)
-
-
 #### Hi, I'm Muhammad Sharjeel Akhtar - aka [SandsOfTimes[SANDY]](https://sandsoftimes.github.io/)
 
 ## I'm a Learner/Student.
