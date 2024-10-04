@@ -1,5 +1,5 @@
 ![header](https://github.com/sandsoftimes/sandsoftimes/blob/main/image.png)
-![](https://komarev.com/ghpvc/?username=sandsoftimes&style=flat)
+![](https://komarev.com/ghpvc/?username=sandsoftimes&style=flat&base=1000)
 #### Hi, I'm Muhammad Sharjeel Akhtar - aka [SandsOfTimes[SANDY]](https://sandsoftimes.github.io/)
 
 ## I'm a Learner/Student.
