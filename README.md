@@ -1,5 +1,5 @@
 ![header](https://github.com/sandsoftimes/sandsoftimes/blob/main/image.png)
-![](https://komarev.com/ghpvc/?username=sandsoftimes&style=flat)
+![](https://komarev.com/ghpvc/?username=sandsoftimes&style=pixel)
 #### Hi, I'm Muhammad Sharjeel Akhtar - aka [SandsOfTimes[SANDY]](https://sandsoftimes.github.io/)
 
 ## I'm a Learner/Student.
@@ -159,7 +159,6 @@ Here are some ideas to get you started:
 ![header](https://media4.giphy.com/media/qMASrWwusThpnxKmEx/giphy.webp?cid=ecf05e47n63c5k1fztbnf3yx0ofxctzsks1g9irvlioqdfrc&ep=v1_gifs_related&rid=giphy.webp&ct=g)
 
 ---
-![](https://komarev.com/ghpvc/?username=sandsoftimes&style=flat)
 
 
 ### Witcher 3 Wild Hunt Showcase
