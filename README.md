@@ -158,7 +158,7 @@ Here are some ideas to get you started:
 ![header](https://media4.giphy.com/media/qMASrWwusThpnxKmEx/giphy.webp?cid=ecf05e47n63c5k1fztbnf3yx0ofxctzsks1g9irvlioqdfrc&ep=v1_gifs_related&rid=giphy.webp&ct=g)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iabubakkar7&label=Profile%20views&color=0e75b6&style=flat" alt="iabubakkar7" /> </p>
+![](https://komarev.com/ghpvc/?username=sandsoftimes&style=flat-square)
 
 
 ### Witcher 3 Wild Hunt Showcase
