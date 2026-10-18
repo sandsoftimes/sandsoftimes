@@ -146,27 +146,3 @@ Here are some ideas to get you started:
 
 ---
 
-### Undertaker Showcase
-
-![header](https://media3.giphy.com/media/6ErBPDqHIa9V5ySvAd/200.webp?cid=ecf05e47w5i3iozjys0ucdie9bsd8p4a9da13hjg342yrg1w&ep=v1_gifs_search&rid=200.webp&ct=g) 
-![header](https://media2.giphy.com/media/55kpDFANQHHHXP5qHi/200.webp?cid=ecf05e47w5i3iozjys0ucdie9bsd8p4a9da13hjg342yrg1w&ep=v1_gifs_search&rid=200.webp&ct=g) 
-
----
-
-### COD Showcase
-
-![header](https://media4.giphy.com/media/qMASrWwusThpnxKmEx/giphy.webp?cid=ecf05e47n63c5k1fztbnf3yx0ofxctzsks1g9irvlioqdfrc&ep=v1_gifs_related&rid=giphy.webp&ct=g)
-
----
-
-
-### Witcher 3 Wild Hunt Showcase
-
-![header](https://media3.giphy.com/media/eKJWHtQLlkD6jxlqq4/200.webp?cid=790b7611qc1xftsvk7lzir9pn5gep7ck9nmx1h0n4uycxo7z&ep=v1_gifs_search&rid=200.webp&ct=g)
-![header](https://media0.giphy.com/media/VIuE5d0sG2sxMRCO99/200.webp?cid=790b7611qc1xftsvk7lzir9pn5gep7ck9nmx1h0n4uycxo7z&ep=v1_gifs_search&rid=200.webp&ct=g)
-
-[website]: https://sandsoftimes.github.io/
-[twitter]: https://sandsoftimes.github.io/
-[youtube]: https://www.youtube.com/@Black-tq8op
-[instagram]: https://instagram.com/me_a_on
-[linkedin]: https://www.linkedin.com/in/muhammad-sharjeel-akhtar-sandsoftimes-sandy-52b1bb317/
